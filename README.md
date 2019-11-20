@@ -4,7 +4,7 @@ The mixtape modification command line tool.
 
 ## Prerequisites
 
-You should have Ruby 2.6.3 installed. (If you need to install it, you can't go wrong with rbenv: https://github.com/rbenv/rbenv)
+You should have Ruby 2.6.3 and Bundler installed. (If you need to install it, you can't go wrong with rbenv: https://github.com/rbenv/rbenv)
 
 ## Getting Started
 
