@@ -24,9 +24,9 @@ You have the option of not installing this gem, in which case you should run in 
 
 ## Usage
 
-The `scratch` function takes three paths.
+The `scratch` command takes the `apply` action and three paths.
 
-    $ scratch <input> <changes> <output>
+    $ scratch apply <input> <changes> <output>
 
 The _input_ path should be the path to a mixtape data file in the predefined format.
 
